@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Younes Zerguine</h1>
 <h3 align="center">🚀 Full-Stack Developer | Master's Student in Computer Science</h3>
 
-- 🔭 I’m currently working on https://younesyoyou123.github.io/portfolio2/
 
 - 🌱 I’m currently learning **Patterns / solid**
 
