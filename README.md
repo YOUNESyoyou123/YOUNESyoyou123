@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Younes Zerguine</h1>
 <h3 align="center">🚀 Full-Stack Developer | Master's Student in Computer Science</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://younesyoyou123.github.io/portfolio2/)
+- 🔭 I’m currently working on https://younesyoyou123.github.io/portfolio2/
 
 - 🌱 I’m currently learning **Patterns / solid**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with [Advanced Backend Development](using **Django** and **Oracle SQL**. - Learning **PHP** and **MySQL**)
+- 🤝 I’m looking for help with using **Django** and **Oracle SQL**.
 
 - 👨‍💻 All of my projects are available at [https://younesyoyou123.github.io/portfolio2/](https://younesyoyou123.github.io/portfolio2/)
 
