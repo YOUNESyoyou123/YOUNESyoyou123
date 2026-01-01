@@ -6,11 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with using **Django** and **Oracle SQL**.
-
 - 👨‍💻 All of my projects are available at [https://younesyoyou123.github.io/portfolio2/](https://younesyoyou123.github.io/portfolio2/)
-
-- 💬 Ask me about **- **React.js**, **Node.js**, **Framer Motion**, **GSAP**, and **Tailwind CSS**.**
 
 - 📫 How to reach me **youneszergine@gmail.com**
 
